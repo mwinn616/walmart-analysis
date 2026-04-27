@@ -1,0 +1,4 @@
+walmart.db
+.DS_Store
+*.pyc
+__pycache__/
