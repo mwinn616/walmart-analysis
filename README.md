@@ -13,5 +13,12 @@ Exploratory analysis of weekly sales data across 45 Walmart stores from 2010–2
 - Sales show consistent seasonality with peaks in November and December each year
 - 45 stores analyzed, zero missing data points
 
+## Charts
+![Top 10 Stores](charts/top_stores.png)
+![Holiday Sales](charts/holiday_sales.png)
+
+## Notebook
+[View full analysis](walmart_sales_analysis.ipynb)
+
 ## Dataset
 Kaggle: [Walmart Sales Forecasting](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
